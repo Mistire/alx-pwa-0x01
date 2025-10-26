@@ -1,8 +1,5 @@
-Got it! Here’s the **README.md** without any emojis, fully formatted for your `alx-project-0x14` repo:
 
----
-
-# ALX Project 0x14 — Movie Database API & CineSeek App
+# ALX PWA 0x01 — Movie Database API & CineSeek App
 
 ## API Overview
 
