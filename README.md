@@ -169,4 +169,3 @@ if (!response.ok) {
 
 ---
 
-If you want, I can now generate **Task 1: Next.js setup instructions + base folder/components structure** so you can set up your project quickly. Do you want me to do that next?
